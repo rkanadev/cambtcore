@@ -1,0 +1,2 @@
+# cambtcore
+Bitcore for CambtCoin
